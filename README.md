@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Greedy
 |  |
 | ------- |
