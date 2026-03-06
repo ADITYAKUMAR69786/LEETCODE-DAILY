@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/0196-delete-duplicate-emails) |
+## Array
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
