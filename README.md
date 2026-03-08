@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1980-find-unique-binary-string](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -21,8 +22,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1980-find-unique-binary-string](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1980-find-unique-binary-string) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
