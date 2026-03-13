@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Database
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1980-find-unique-binary-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -43,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+## Math
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Binary Search
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
