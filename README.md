@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/0033-search-in-rotated-sorted-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/1980-find-unique-binary-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/0033-search-in-rotated-sorted-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
 |  |
