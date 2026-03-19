@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0180-consecutive-numbers](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/ADITYAKUMAR69786/LEETCODE-DAILY/tree/master/0262-trips-and-users) |
